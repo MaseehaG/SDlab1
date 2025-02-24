@@ -1,0 +1,1 @@
+I created a git repo, thereafter I created 3 files according to the instructions given.
